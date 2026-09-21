@@ -1,4 +1,4 @@
-# 🎙️ Text-to-Speech Web Application (Level 1 – Basic)
+# 🎙️ Text-to-Speech Web Application 
 
 A clean, beginner-friendly full-stack Text-to-Speech (TTS) web application built using **React.js** on the frontend and **Node.js + Express.js** on the backend. This project is designed as an introductory paired architecture project suitable for college submissions, hackathons, and self-learning.
 
