@@ -1,0 +1,22 @@
+{
+  "name": "text-to-speech-server",
+  "version": "1.0.0",
+  "description": "Backend API for Text-to-Speech Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "text-to-speech",
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "google-tts-api": "^2.0.2"
+  }
+}
